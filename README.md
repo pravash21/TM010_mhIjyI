@@ -3,7 +3,6 @@ A web crawler to create notes for given topics.
 It is a python based webapp that takes a topic from user and creates a document which contains information related to the topic.
 
 Make sure you have following python libraries installed:
-
 0. wget
 1. urllib
 2. tkinter
@@ -12,7 +11,9 @@ Make sure you have following python libraries installed:
 <b>Setup: </b>
 
 https://github.com/pravash21/TM010_mhIjyI,git
+
 cd TM010_mhIjyI
+
 Course_downloader.py
 
 <b>How to Use:</b>
