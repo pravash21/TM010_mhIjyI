@@ -10,7 +10,7 @@ Make sure you have following python libraries installed:
 
 <b>Setup: </b>
 
-https://github.com/pravash21/TM010_mhIjyI,git
+git clone https://github.com/pravash21/TM010_mhIjyI,git
 
 cd TM010_mhIjyI
 
